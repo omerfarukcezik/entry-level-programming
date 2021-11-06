@@ -12,5 +12,7 @@ public class _012_negativepositiveexample {
         else
         System.out.println("Pozitif");
 
+
+
     }
 }
