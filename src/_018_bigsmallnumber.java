@@ -1,4 +1,4 @@
-public class _018_multipleofanumber {
+public class _018_bigsmallnumber {
     public static void main(String[] args) {
         java.util.Scanner kb = new java.util.Scanner(System.in);
         int a, b;
