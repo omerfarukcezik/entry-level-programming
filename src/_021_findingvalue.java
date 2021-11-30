@@ -10,8 +10,7 @@ public class _021_findingvalue {
             y = x * x + 2 * x;
             z = 3 * x;
 
-            System.out.println("Değeri Y:" + y);
-            System.out.println("Değeri Z:" + z);
+            System.out.println(("Değeri Y:" + y) + ("Değeri Z:" + z));
         }
         else{
             y = x;

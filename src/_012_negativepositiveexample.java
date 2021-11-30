@@ -7,7 +7,7 @@ public class _012_negativepositiveexample {
         System.out.print("Bir sayı giriniz : ");
         n = kb.nextInt();
 
-        if(n<0)
+        if(n < 0)
         System.out.println("Negatif");
         else
         System.out.println("Pozitif");

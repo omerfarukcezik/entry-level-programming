@@ -6,7 +6,7 @@ public class _017_singlecouple {
             System.out.println("Bir sayı giriniz:");
             n = kb.nextInt();
 
-            if (n%2 == 0)
+            if (n % 2 == 0)
                 System.out.println("Çift");
             else
                 System.out.println("tek");
